@@ -7,3 +7,5 @@
 3. Traits `scala3-traits` https://blog.rockthejvm.com/scala-3-traits/
 4. Tagless Final `scala3-tagless` https://blog.rockthejvm.com/tagless-final/
 5. Opaque Type `scala3-opaque` https://blog.rockthejvm.com/scala-3-opaque/
+6. Type Lambdas `scala3-type-lambdas` https://blog.rockthejvm.com/scala-3-type-lambdas/
+7. 
