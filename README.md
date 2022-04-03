@@ -9,4 +9,5 @@
 5. Opaque Type `scala3-opaque` https://blog.rockthejvm.com/scala-3-opaque/
 6. Type Lambdas `scala3-type-lambdas` https://blog.rockthejvm.com/scala-3-type-lambdas/
 7. Type Class experimental `scala3-tc-experimental`
-8. 
+8. Akka Typed: Actor Discovery `akka-actor-discovery` https://blog.rockthejvm.com/akka-actor-discovery/
+9. 
