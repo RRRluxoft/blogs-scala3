@@ -9,4 +9,5 @@
 5. Opaque Type `scala3-opaque` https://blog.rockthejvm.com/scala-3-opaque/
 6. Type Lambdas `scala3-type-lambdas` https://blog.rockthejvm.com/scala-3-type-lambdas/
 7. Type Class experimental `scala3-tc-experimental`
-8. 
+8. WhyAreTypeClassUseful `TypeClassUseful` https://blog.rockthejvm.com/why-are-typeclasses-useful/
+
