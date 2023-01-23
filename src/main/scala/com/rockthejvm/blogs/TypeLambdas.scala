@@ -29,7 +29,6 @@ object TypeLambdas {
   @main def lambdas(): Unit = {
     val m: Monad[List] = new Monad[List] {
       override def pure[A](value: A): List[A] = List(value)
-
       override def flatMap[A, B](ma: List[A])(f: A => List[B]): List[B] = ??? // f(ma)
     }
   }
